@@ -10,14 +10,3 @@ Sorteio de Letras: Gera uma letra aleatória de A a Z.
 
 Opção Par ou Ímpar: Permite ao usuário escolher entre "Par" ou "Ímpar" e gera um resultado aleatório para a escolha feita.
 
-Abra o IntelliJ IDEA e importe o projeto.
-
-Execute o aplicativo a partir da classe principal LotoFacil.java.
-
-A interface gráfica será exibida, permitindo que você escolha as opções de sorteio e visualize os resultados.
-
-Contribuições Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicionar novas funcionalidades, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.
-
-Licença Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.
-
-Este projeto foi desenvolvido por Tarik e é fornecido sem garantias de qualquer tipo. Divirta-se usando o Sorteador de Loteria (LotoFácil)!
